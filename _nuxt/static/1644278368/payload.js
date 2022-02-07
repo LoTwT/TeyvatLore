@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{markers:[{name:"北风的王狼，奔狼的领主",pos:[880,-3480]},{name:"裂空的魔龙",pos:[353,-4360]}]}],fetch:{},mutations:void 0});
